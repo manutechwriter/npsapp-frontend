@@ -63,6 +63,18 @@
     width: 100%; 
 }
 
+#promoters-count-text {
+    color: #2bc275;
+}
+
+#passives-count-text {
+    color: #5f60ff;
+}
+
+#detractors-count-text {
+    color: #d74e26;
+}
+
 .rating-message-container {
     background-color: rgba(0, 0, 0, 0.8);
     color: #fff;
