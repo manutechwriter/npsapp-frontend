@@ -1,5 +1,6 @@
 * {
     font-family: Arial, sans-serif;
+    color: #666666;
 }
 
 .main-live-chart-container {
@@ -40,12 +41,7 @@
     cursor: pointer;
     border: 2px solid #ccc;
     background-color: transparent;
-    color: #000;
     font-size: 1em;
-}
-
-[data-md-color-primary="white"] .circle {
-    color: #fff;
 }
 
 .circle-1 {
